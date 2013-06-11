@@ -1,4 +1,4 @@
-vaibhavb.github.io
+Index
 ==================
 
-vaibhavb.github.io
+This code is a medley of various javascript, REST and blog writing projects.
