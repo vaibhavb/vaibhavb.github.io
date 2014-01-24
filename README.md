@@ -5,7 +5,9 @@ This code is a medley of various javascript, REST and blog writing projects.
 
 v0.0.1
 
----
-name: nameyaml
-view: something
----
+# H1 [wv]
+Yes this is awesome
+  * [ ] Test
+  * [ ] B
+
+[wv]: http://www.wisevoter.org
